@@ -24,6 +24,7 @@ Icon?
 # Ignore dependencies
 /node_modules
 /bower_components
+/*/node_modules
 
 # Ignore environment-specific files
 .env
